@@ -1,0 +1,33 @@
+body{
+    background: rgb(193,100,0);
+background: linear-gradient(90deg, rgba(193,100,0,1) 6%, rgba(0,173,8,1) 100%);
+
+}
+h1{
+    color: #fff;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+h2{
+    color: red;
+    text-align: center;
+
+}
+video{
+    width: 500px;
+}
+button{
+    background-color: red;
+    border: 1px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 67%;
+    left: 50%;
+    padding: 11px, 15px;
+    padding: 15px 11px ;
+    font-size: medium;
+    font-weight: lighter;
+    color: #fff;
+    border-radius: 10%;
+}
